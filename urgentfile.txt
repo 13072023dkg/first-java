@@ -1,1 +1,2 @@
 This file is mandatory file
+This is from VM
